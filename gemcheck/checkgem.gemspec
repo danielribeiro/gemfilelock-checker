@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.email         = %w[danielrb@squareup.com danrbr@gmail.com]
   spec.summary       = %q{Gemcheck for gemfilelock-checker}
   spec.description   = spec.summary
-  spec.homepage      = 'https://github.com/danielribeiro/gemfilelock-checker/gemcheck'
+  spec.homepage      = 'https://github.com/danielribeiro/gemfilelock-checker/tree/master/gemcheck'
   spec.files         = `git ls-files .`.split($INPUT_RECORD_SEPARATOR)
   spec.bindir        = 'bin'
   spec.executables      = ['gemcheck-bin']

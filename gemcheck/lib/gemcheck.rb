@@ -1,5 +1,5 @@
 module Gemcheck
-    VERSION = '0.2.0'
+    VERSION = '0.4.0'
 
     def self.run
         line = "=" * 100
